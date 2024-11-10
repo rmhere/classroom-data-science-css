@@ -22,7 +22,7 @@ W ramach GitHub Classroom zrób commit ze zrealizowanym zadaniem w folderze ```m
 
 ### ShinyApps - napięcie w mieszkaniu
 
-```https://rmhere.shinyapps.io/aclevel/``` - demonstracja działającej aplikacji
+https://rmhere.shinyapps.io/aclevel/ - demonstracja działającej aplikacji
 
 ```aclevel/code/shinyapp-aclevel.R``` - aplikacja ShinyApp do wyświetlania wartości napięcia w mieszkaniu
 
