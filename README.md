@@ -6,7 +6,7 @@ Treść zadania oraz materiały z mini-wykładu przekazano w wiadomości via USO
 
 ## Termin wykonania zadania
 
-2024-12-01 godzina 23:59 - każde rozwiązanie zgłoszone po tym terminie otrzymuje ocenę cząstkową 2.0 do oceny z tej części kursu.
+2025-11-29 godzina 23:59 - każde rozwiązanie zgłoszone po tym terminie otrzymuje ocenę cząstkową 2.0 do oceny z tej części kursu.
 
 ## Jak wykonać zadanie?
 
